@@ -1,0 +1,31 @@
+Contiguous Arrayy
+
+Problem Statement
+
+Contiguous Array
+
+Given a binary array 'nums', you must find the maximum length of a contiguous subarray that contains an equal number of Os and Is.
+
+Explanation:
+
+A binary array is an array that contains only Os and Is.
+
+• A subarray is any subset of the indices of the original array.
+
+A contiguous subarray is one in which all the elements are consecutive, i.e... any element between the first and last element of the subarray is also part of it.
+
+Examples:
+
+Input : nums [0, 1]
+
+Output: 2
+
+Explanation: The longest contiguous subarray with an equal number of Os and Is is [0, 1] with a length of 2.
+
+Input: nums = [0, 1, 0]
+
+Output: 2
+
+Explanation: The longest contiguous subarray with an equal number of Os and Is is either [0, 1] or [1, Ol, both with a length of 2.
+
+Input: nums = [0, 0, 0, 1, 1, 1]
